@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhankardas&label=Profile%20views&color=0e75b6&style=flat" alt="subhankardas" /> </p>
 
-- 🔭 I’m currently working on [Spring Projects](https://github.com/subhankardas/spring-projects)
+- 🔭 I’m currently working on [Spring Projects](https://github.com/subhankardas/spring-projects) and [Golang Projects](https://github.com/subhankardas/go-projects)
 
 - 🌱 I’m currently learning **Go, System Design & Cloud Technologies**
 
